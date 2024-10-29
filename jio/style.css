@@ -1,0 +1,625 @@
+.logo{
+  position: relative;
+  height: 37px;
+  margin-left: -5px;
+  list-style-type: none;
+  top: -6px;
+  border-radius: 50rem;
+}
+.list{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding: 257px;
+  bottom: 238px;
+  margin-left: -88px;
+}
+.high{
+  background: blue;
+  height: 64px;
+}
+.low{
+  position: relative;
+  list-style-type: none;
+  background: navy;
+  height: 44px;
+
+}
+.unlist{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 900px;
+  margin-left: 128px;
+  list-style-type: none;
+}
+
+
+.band{
+  position: relative;
+  margin-left: 193px;
+  top: 25px;
+  font-family: revert-layer;
+  font-weight: 900;
+  font-size: 61px;
+
+}
+.para{
+  position: relative;
+  margin-left: 72px;
+  top: -85px;
+  font-size: 22px;
+  padding: 119px;
+  font-weight: lighter;
+}
+.fiber{
+  padding: 8px;
+  border-radius: 500px;
+  background-color: blue;
+  color: white;
+  position: relative;
+  bottom: 185px;
+  margin-left: 188px;
+}
+.New{
+  position: relative;
+  bottom: 724px;
+  padding: 0px;
+  margin-left: 596px;
+  color: white;
+  background: red;
+  border-radius: 23px;
+  font-size: small;
+  padding: -2px;
+  border-color: black;
+  width: 47px;
+}
+.looking{
+  position: relative;
+  margin-left: 165px;
+  bottom: 101px;
+  font-weight: 702;
+}
+.big{
+  position: relative;
+  background: lavender;
+  width: 368px;
+  height: 322px;
+  margin-left: 162px;
+  padding: 127px;
+  bottom: 84px;
+  border-radius: 23px;
+}
+.book{
+  position: relative;
+  top: 133px;
+  margin-left: -99px;
+  background: navy;
+  color: white;
+  font-weight: bolder;
+  width: 129px;
+  padding: 9px;
+  border-radius: 31px;
+}
+.medium{
+  position: relative;
+  background: lavender;
+  width: 368px;
+  margin-left: 544px;
+  bottom: 408px;
+  height: 322px;
+  border-radius: 23px;
+}
+.books{
+  position: relative;
+  top: 261px;
+  margin-left: 25px;
+  background: navy;
+  color: white;
+  font-weight: bolder;
+  width: 129px;
+  padding: 9px;
+  border-radius: 31px;
+
+}
+.small{
+  position: relative;
+  background: lavender;
+  width: 368px;
+  margin-left: 927px;
+  bottom: 731px;
+  height: 322px;
+  border-radius: 23px; 
+}
+.view{
+  max-width: 31ch;
+  position: absolute;
+  top: 271px;
+  margin-left: 68px;
+  text-decoration-line: none;
+}
+.rupees{
+  position: relative;
+  bottom: 132px;
+  margin-left: -91px;
+  font-size: 38px;
+
+}
+.gst{
+  position: relative;
+  margin-left: 115px;
+  bottom: 64px;
+  font-size: 21px;
+  color: dimgray;
+  font-style: inherit;
+  font-weight: 500;
+}
+.month{
+  position: relative;
+  bottom: 204px;
+  font-size: 13px;
+  width: 223px;
+  margin-left: -86px;
+  bottom: 174px;
+}
+.netflix{
+  position: relative;
+  height: 22px;
+  bottom: 177px;
+  margin-left: -86px;
+  border-radius: 15px;
+}
+.prime{
+  position: relative;
+  bottom: 177px;
+  height: 24px;
+  border-radius: 16px;
+  margin-left: 2px;
+
+}
+.more{
+  position: relative;
+  bottom: 225px;
+  font-size: 15px;
+  margin-left: -27px;
+  font-weight: 580;
+  font-style: normal;
+  color: dimgray;
+}
+.line{
+  height: 1px;
+  background-color: lightgray;
+  position: relative;
+  bottom: 224px;
+  width: 320px;
+  margin-left: -84px;
+}
+.validity{
+  position: relative;
+  bottom: 219px;
+  font-size: 14px;
+  margin-left: -84px;
+  color: dimgray;
+  font-weight: 507
+}
+.data{
+  position: relative;
+  bottom: 244px;
+  font-size: 14px;
+  margin-left: 33px;
+  font-weight: 507;
+  color: dimgrey;
+}
+.bill{
+  position: relative;
+  bottom: 252px;
+  font-size: 14px;
+  margin-left: -85px;
+  font-weight: 700;
+
+}
+.unlimited{
+  position: relative;
+  bottom: 276px;
+  font-size: 11px;
+  margin-left: 27px;
+}
+.popular{
+  position: relative;
+  margin-left: -140px;
+  bottom: -14px;
+  background: #00364e;
+  color: white;
+  padding: 2px;
+  border-radius: 11px;
+  width: 143px;
+  font-weight: 351;
+}
+.nine{
+  position: relative;
+  margin-left: 20px;
+  bottom: -10px;
+  font-size: 32px;
+}
+.gst1{
+  position: relative;
+  margin-left: 97px;
+  bottom: 62px;
+  font-size: 20px;
+  color: dimgray;
+  font-weight: 500;
+}
+.months{
+  position: relative;
+  font-size: 16px;
+  margin-left: 22px;
+  bottom: 48px;
+}
+.netty{
+  position: relative;
+  height: 23px;
+  margin-left: 23px;
+  bottom: 55px;
+  border-radius: 15px;
+}
+.amaze{
+  position: relative;
+  bottom: 55px;
+  height: 23px;
+  border-radius: 50px;
+  margin-left: 3px;
+}
+.mores{
+  position: relative;
+  bottom: 79px;
+  margin-left: 83px;
+  font-size: 15px;
+  color: dimgray;
+  font-weight: 580;
+}
+.line1{
+  position: relative;
+  background: lightgray;
+  height: 1px;
+  bottom: 76px;
+  margin-left: 24px;
+  width: 342px;
+}
+.validity1{
+  position: relative;
+  bottom: 71px;
+  font-size: 14px;
+  color: dimgray;
+  font-weight: 512;
+  margin-left: 27px;
+}
+.bills{
+  position: relative;
+  bottom: 85px;
+  margin-left: 27px;
+  font-size: 14px;
+  bottom: 103px;
+  font-weight: 700;
+}
+.datas{
+  position: relative;
+  bottom: 97px;
+  margin-left: 142px;
+  font-size: 14px;
+  color: dimgray;
+  font-weight: 507; 
+}
+.unlimit{
+  position: relative;
+  bottom: 132px;
+  margin-left: 142px;
+  font-size: 11px;
+  width: 86px;
+}
+.mbps{
+  position: relative;
+  margin-left: -140px;
+  top: 13px;
+  color: white;
+  background: #00364e;
+  border-radius: 8px;
+  width: 194px;
+  height: 29px; 
+}
+.broad{
+  position: relative;
+  margin-left: 729px;
+  bottom: 1626px;
+  height: 483px;
+  width: 544px;
+  border-radius: 18px;
+}
+.view1{
+  position: relative;
+  bottom: 1165px;
+  margin-left: 167px;
+  border-radius: 100px;
+  background: white;
+  color: navy;
+  font-weight: 611;
+  width: 198px;
+  height: 43px;
+  border: 1px solid silver;
+}
+.view1:hover{
+  border: 1px solid navy;
+
+}
+.feel{
+  position: relative;
+  bottom: 1147px;
+  margin-left: 172px;
+  font-weight: 900;
+  font-family: helvetica,arial,sans-serif;
+  font-size: 34px;
+}
+.web{
+  position: relative;
+  bottom: 1120px;
+  margin-left: 167px;
+  border-radius: 44px;
+}
+.speed{
+  position: relative;
+  bottom: 1114px;
+  margin-left: 184px;
+  font-family: helvetica,arial,sans-serif;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+}
+.enjoy{
+  position: relative;
+  bottom: 1123px;
+  margin-left: 184px;
+  font-family: JioType,helvetica,arial,sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+  color: dimgray;
+}
+.ott{
+  position: relative;
+  bottom: 1330px;
+  margin-left: 425px;
+  border-radius: 700px;
+  border-radius: 672px;
+  height: 67px;
+  padding: 8px
+}
+.non{
+  position: relative;
+  bottom: 1327px;
+  margin-left: 455px;
+  font-family: helvetica,arial,sans-serif;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+}
+.enjoys{
+  position: relative;
+  bottom: 1336px;
+  margin-left: 452px;
+  font-family: JioType,helvetica,arial,sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+  color: dimgray;
+}
+.camera{
+  position: relative;
+  bottom: 1567px;
+  margin-left: 702px;
+  border-radius: 700px;
+  border-radius: 672px;
+  height: 67px;
+  padding: 8px;
+}
+.nons{
+  position: relative;
+  bottom: 1565px;
+  margin-left: 724px;
+  font-family: helvetica,arial,sans-serif;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+}
+.enjoyed{
+  position: relative;
+  bottom: 1573px;
+  margin-left: 724px;
+  font-family: JioType,helvetica,arial,sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+  color: dimgray;
+}
+.fourk{
+  position: relative;
+  bottom: 1768px;
+  margin-left: 992px;
+  border-radius: 44px;
+}
+.none{
+  position: relative;
+  bottom: 1768px;
+  margin-left: 1010px;
+  font-family: helvetica,arial,sans-serif;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+}
+.enjoying{
+  position: relative;
+  bottom: 1777px;
+  margin-left: 1010px;
+  font-family: JioType,helvetica,arial,sans-serif;
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: -.08px;
+  line-height: 1.5;
+  color: dimgray;
+}
+.check{
+  position: relative;
+  bottom: 1687px;
+  margin-left: 177px;
+  border-box:none;
+}
+.select{
+  position: relative;
+  bottom: 1500p;
+  bottom: 1636px;
+  margin-left: 180px;
+  width: 200px;
+  height: 26px;
+  border: none;
+}
+.near{
+  position: relative;
+  bottom: 1592px;
+  margin-left: 174px;
+  font-size: 49px;
+  font-weight: bold;
+}
+.reg{
+  position: relative;
+  bottom: 1555px;
+  margin-left: 175px;
+  font-size: 21px;
+  font-weight: 44;
+}
+.digital{
+  position: relative;
+  bottom: 1778px;
+  margin-left: 858px;
+  height: 261px;
+}
+.office{
+  position: relative;
+  bottom: 1803px;
+  margin-left: 174px;
+  border-radius: 32px;
+  width: 197px;
+  color: white;
+  background:blue;
+  height: 52px;
+}
+.office:hover{
+  background: navy;
+}
+.faq{
+  position: relative;
+  bottom: 1692px;
+  margin-left: 181px;
+  font-weight: 900;
+}
+.applys{
+  position: relative;
+  bottom: 1614px;
+  position: relative;
+  margin-left: 180px;
+  justify-content: ;
+}
+.apply1{
+  position: relative;
+  bottom: 9px;
+  font-size: 21px;
+  font-weight: 576;
+}
+.apply2{
+  position: relative;
+  top: 16px;
+  font-size: 21px;
+  font-weight: 576;
+}
+.apply3{
+  position: relative;
+  top: 122px;
+  font-size: 21px;
+  font-weight: 576;
+}
+.apply4{
+  font-size: 21px;
+  font-weight: 576;
+   position: relative;
+  bottom: 10px;
+
+}
+.line3{
+  position: relative;
+  color:lightgrey;
+  background:lightgray;
+  height: 1px;
+  width: 1135px;
+}
+.line4{
+  position: relative;
+  color:lightgray;
+  background:lightgrey;
+  height: 1px;
+  width: 1135px; 
+  top: 23px;
+}
+.line5{
+  position: relative;
+  color: lightgray;
+  background: lightgrey;
+  height: 1px;
+  width: 1135px;
+  top: 50px;
+}
+.line6{
+  position: relative;
+  color:lightgray;
+  background:lightgrey;
+  height: 1px;
+  width: 1135px;
+  top: 75px; 
+}
+.line7{
+  position: relative;
+  color: lightgray;
+  background: lightgrey;
+  height: 1px;
+  width: 1135px;
+  top: 98px 
+}
+.apply5{
+  font-size: 21px;
+  font-weight: 576;
+  position: relative; 
+  top: 89px;
+}
+.hello{
+
+}
+.body{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: auto;
+}
