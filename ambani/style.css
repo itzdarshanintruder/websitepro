@@ -1,0 +1,35 @@
+.logo{
+    position: relative;
+    height: 32px;
+    border-radius: 20px;
+    bottom: 2px;
+}
+.high{
+    position: relative;
+    background: blue;
+    height: 73px;
+}
+.list{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 907px;
+    margin-left: 75px;
+    top: 23px;
+list-style-type: none;
+}
+.light{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 109px;
+    bottom: 23px;
+    color: white;
+    background: bl;
+    list-style-type: none;
+}
+.dark{
+    
+}

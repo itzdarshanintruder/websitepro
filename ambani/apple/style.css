@@ -1,0 +1,160 @@
+.link{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 166px;
+    position: relative;
+    top: 11px;
+    font-size: 15px;
+}
+.links{
+    
+    list-style-type: none;
+    position: relative;
+     margin-left: 328px;
+     
+     bottom: 74px;
+     font-size: 15px;;                             
+}
+.link a, .links a{
+    text-decoration: none;
+    color:black;
+}
+.navbar{
+   background-color:#f0f0f2;
+   position: relative;
+  bottom: 8px;
+  margin: -7px;
+  padding: 0px;
+  height: 42px;
+}
+.line{
+    position: relative;
+  margin-left: 309px;
+  bottom: 33px;
+}
+.appleicon{
+    position: relative;
+    height: 20px;
+}
+.banner{
+    position: relative;
+    display: flex;
+    margin-left: 184px;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 180px;
+    margin-left: 180px;
+    bottom: 170px;
+    margin-left: 139px;
+    
+}
+.banner li a{
+    text-decoration: none;
+    color:black;
+    font-family:  "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+}
+.heading{
+    position: relative;
+  bottom: 320px;
+  margin-left: 120px auto;
+  margin-left: 316px;
+  font-style: normal;
+  font-size: 13px;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}
+.linkbuy{
+    position: relative;
+  margin-left: 974px;
+  bottom: 350px;
+  margin-left: 925px;
+  text-decoration: none;
+}
+.appleproducts{
+  margin-left: 450px;
+  bottom: -2px;
+  background-color: #f0f0f2;
+  position: relative;
+}
+.applebackground{ 
+  background-color: #f0f0f2;
+  position: relative;
+  bottom: 326px;
+  height: 784px;
+  width: 1340px;
+}
+.button{
+  position: relative;
+  bottom: 688   px;;
+  margin-left: 622px;
+  color: white;
+  border-color: #007bff;
+  padding: 8px;
+  background-color: #007bff;
+  width: 95px;
+  font-size: inherit;
+  font-family: ;
+  font-style: inherit;
+  font-weight: inherit;
+}
+.image{
+  position: relative;
+  bottom: 601px;
+  height: 358px
+  width: 1107px;
+  margin-left: 103px;
+}
+.MacAir{
+  position: relative;
+  bottom: -14px;
+  margin-left: 540px;
+  font-size: xx-large;
+  font-style: normal;
+
+}
+.super{
+  position: relative;
+  bottom: 37px;
+  margin-left: 562px;
+  width: 450px;
+  font-style: italic;
+  font-variant-caps: all-petite-caps;
+}
+.learn{
+  position: relative;
+  bottom: 57px;
+  margin-left: 569px;
+  
+
+}
+.buy{
+  position: relative;
+  bottom: 79px;
+  margin-left: 697px
+}
+.macair{
+  position: relative;
+  bottom: 70px;
+  margin-left: 474px;
+  height: 238px;
+}
+.silver{
+  background-color: #f0f0f2;
+  position: relative;
+  bottom: 603px;
+  width: 1340px;
+}
+.ipad{
+  position: relative;
+  margin-bottom: 123px;
+  bottom: 109;
+  bottom: 600px;
+  margin-left: 5px;
+}
+.macbook{
+  position: relative;
+  bottom: 1123px;
+  margin-left: 658px;
+}
