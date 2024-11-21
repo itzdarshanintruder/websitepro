@@ -1,0 +1,185 @@
+.logo{
+    margin-left: 580px;
+    margin-top: 45px;
+
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 23px;
+    background-color:#00a2ed;
+    color: white;
+    border: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+    padding: 25px 30px 23px 32px;
+
+}
+.active{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+}
+.foot{
+    position: relative;
+    float: left;    
+    padding: 25px 0px 22px 0px;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    color: #727272;
+    background-color: black;
+    border-top: 1px solid;
+    margin-top: 0px;
+    font-size: small;
+}
+#img{
+    margin-left: 550px;
+    margin-bottom: 130px;
+}
+.text{
+    font-size: 35px;
+    padding: 0px;
+    margin: 0px 0px 35px 0px;
+    font-family:'open sans ',sans-serif;
+    font-weight: normal;
+    text-align: center;
+
+}
+ .strong{
+    font-weight: bold;
+    color: #00a2ed;
+}
+.italic{
+    text-align: center;
+    margin-left:290px;
+    
+    position: relative;
+    bottom: 30px;
+}
+.layout{
+    padding: 50px;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 80px;
+}
+.products{
+    background-color:white;
+    position: relative;
+    justify-content: space-between;
+    margin-top: 72px;
+
+}
+
+
+.board{
+    background-color: black;
+    display: flex;
+    color: white;
+    float: left;
+    padding: 18px  0px;
+    font-family:"open sans",sans-serif;
+    width: 100%;
+    height: 112px;
+    font-family: 'open sans',sans-serif;
+
+   
+}
+.para{
+    color: white;
+}
+.quick-btn{
+    margin-left: 300px;
+    font-weight: bold;
+    width: 190px;
+    
+}
+.colour{
+    background-color: black;
+}
+body{
+    overflow-x: hidden;
+}
+.icon{
+    font-weight: bold;
+    color: #00a2ed;
+
+}
+.clay{
+
+    margin-top: 70px;
+    padding: 30px 30px 61px 30px;
+}
+.entrepuners{
+    padding: 0;
+    margin: 54px;
+    position: relative;
+    margin-right: 400px;
+}
+.leftside{
+ 
+    position: relative;
+    margin: 0px;
+    
+}
+
+
+/* offers */
+
+.offers h1{
+    margin: 49px;
+
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+}
+.slow-btn{
+    position: relative;
+    margin-left: 493px;
+    padding: 18px;
+    font-weight: 300;
+    color: white;
+    margin-top: 31px;
+    background-color: #00a2ed;
+    border-radius: 4px;
+}
+.address{
+    position: relative;
+    margin-left: 100px;
+    top: 52px;
+    color: white;
+    
+}
+.quicklinks{
+    position: relative;
+    margin-left: 418px;
+    bottom: 101px;
+    margin-top: -27px;
+    color: white;
+}
+.minerals{
+    position: relative;
+    margin-left: 667px;
+    bottom: 263px;
+    padding: 8px;
+    color: white;
+}
+.aboutus{
+    position: relative;
+    margin-left: 1006px;
+    bottom: 440px;
+    color: white;
+}
+.addressection{
+    position: relative;
+    margin-top: 58px;
+    background-color: black;
+    height: 469px;
+}
