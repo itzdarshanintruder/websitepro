@@ -1,0 +1,94 @@
+
+.nav1{
+    position: relative;
+    margin-left: 717px;
+    list-style-type: none;
+    top: 32px;
+    font-size: larger;
+    cursor: pointer;
+    
+}
+.nav2{
+    position: relative;
+    margin-left: 926px;
+    list-style-type: none;
+    top: 11px;
+    font-size: large;
+    cursor: pointer;
+}
+.nav3{
+    list-style-type: none;
+    font-size: large;
+    top: 9px;
+    margin-left: 788px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.nav4{
+  position: relative;
+  margin-left: 1017px;
+  bottom: 30px;
+  margin-left: 1023px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.wix{
+  position: relative;
+  height: 21px;
+  top: 16px;
+  margin-left: 41px;
+}
+.pontopet{
+    padding: 42px;
+    position: relative;
+    list-style-type: none;
+    bottom: 520px;
+
+}
+.about{
+    position: relative;
+  margin-left: 878px;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: large;
+  bottom: 22px;
+}
+.Contact{
+    list-style-type: none;
+    position: relative;
+    bottom: 42px;
+    margin-left: 955px;
+}
+.banner{
+    
+  background: #ACD5DE;
+  position: relative;
+  height: 503px;
+  top: 26px;
+  padding: 0px;
+  margin-left: -42px;
+  margin-right: -8px;
+  cursor: pointer;
+}
+.pet{
+  position: relative;
+  font-size: xxx-large;
+  bottom: 508px;
+  margin-left: 66px;
+  color: darkblue;
+}
+.paw{
+    position: relative;
+  bottom: 538px;
+  margin-left: 66px;
+  font-size: larger;
+  font-style: inherit;
+}
+.puppy{
+    pposition: relative;
+    margin-left: 376px;
+    bottom: 789px;
+    size: a3;
+    height: 571px;
+}
